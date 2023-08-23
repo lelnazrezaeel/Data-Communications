@@ -24,8 +24,3 @@ My solutions to IUST's Data Communication, Spring 2021, Dr. Dianat.
 ### P2
 - Description: MATLAB project related to Information Theory, along with theory questions.
 - Code: [Link to P2](https://github.com/lelnazrezaeel/Data-Communications-IUST/tree/main/Projects/P2)
-
-## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/video--v1.png" alt="video--v1"/> Videos
-
-- Description: This folder contains videos of course lectures provided by the professor.
-- Code: [Link to Videos](https://github.com/lelnazrezaeel/Data-Communications-IUST/tree/main/Videos)
