@@ -1,5 +1,5 @@
 # Data-Communications-IUST
-My solutions to IUST's Data Communication, Spring 2021, Dr. Dianat.
+My solutions to IUST's Data Communication, Spring 2022, Dr. Dianat.
 
 ## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/homework.png" alt="homework"/> Homeworks
 ### HW1
