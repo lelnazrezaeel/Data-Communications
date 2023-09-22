@@ -13,7 +13,7 @@ My solutions to IUST's Data Communication, Spring 2022, Dr. Dianat.
 ## <img width="20" height="20" src="https://img.icons8.com/external-smashingstocks-mixed-smashing-stocks/68/41b883/external-Notes-work-from-home-smashingstocks-mixed-smashing-stocks-2.png" alt="Notes"/> Notes
 
 - Description: Lecture slides provided by the professor.
-- Answers: [Link to Notes](https://github.com/lelnazrezaeel/Data-Communications-IUST/tree/main/Notes)
+- [Link to Notes](https://github.com/lelnazrezaeel/Data-Communications-IUST/tree/main/Notes)
 
 ## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/project.png" alt="project"/> Projects
 
